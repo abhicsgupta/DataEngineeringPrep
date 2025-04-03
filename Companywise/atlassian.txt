@@ -1,0 +1,354 @@
+Introduction
+Atlassian is an Australian-American enterprise software company that creates tools to improve team collaboration, project management, and software development processes. Their flagship products include Jira, Confluence, Bitbucket, Trello, and Jira Service Management. Atlassian is a generous and flexible employer that offers attractive pay, a good work-life balance, and great health benefits.
+
+As a data engineer, you’ll have the opportunity to work collaboratively with their software and data science teams to deliver business-focused solutions.
+
+In this detailed guide, we’ll break down the Atlassian data engineering interview questions and processes and share expert tips to help you confidently tackle this challenge.
+
+Atlassian Data Engineer Interview Process
+This role will test your expertise in data modeling, coding, and, most importantly, problem-solving. They want engineers who excel at cross-functional collaboration. Cultural fit is important, so be sure to prepare responses to commonly asked behavioral questions.
+
+Please note that the questions and structure of the interview process will differ based on the team and function advertised in the job description. Always go through the job role carefully while preparing your interview strategy.
+
+Step 1: Preliminary Screening
+After you apply, a recruiter will contact you to get a sense of your work experience and cultural fit. Be prepared for CV-based questions and study your past projects.
+
+Step 2: Coding Interviews
+You will next be invited to a series of interviews over video call, each about an hour long. There may be up to six interviews on:
+
+Code design
+Data structures
+Here are some interview tips from Atlassian’s Careers page:
+
+The main goal of a coding interview is to understand how you tackle real-life problems.
+We want to understand how you explore an issue—what questions you would ask, how you’d talk through constraints, who you might partner with for help, and which technologies you’d use.
+The interview is different from a traditional technical interview as you can choose the language to code in.
+The interviewer may ask you to consider a new approach to test your learning agility.
+Step 3: Systems Design Interviews
+This round (or rounds) is your chance to demonstrate how structured your thought process is. Your interviewer will ask you questions ranging from architectural challenges to scaling systems under constraints. Feel free to brainstorm with your interviewer, ask plenty of questions to define the scope of the problem, and don’t get anxious if the interviewer asks you to change directions—it’s all a part of the assessment process!
+
+Step 4: Manager Round
+The final stage usually involves meeting with team leads. This last round will assess your cultural fit and motivation to join the firm.
+
+Commonly Asked Atlassian Data Engineer Interview Questions
+Atlassian Data Engineer
+Average Data Engineer
+The Atlassian data engineering interview questions focus on practical skills in data manipulation, query optimization, algorithm design, and problem-solving in real-world data engineering scenarios. The questions are designed to test technical expertise, analytical thinking, and the ability to apply knowledge in practical situations relevant to Atlassian’s data engineering challenges.
+
+For a more in-depth look at these questions, let’s go through the list below.
+
+1. Tell me about a time you failed.
+In a collaborative culture like Atlassian’s, they’ll want to know if you can be open about mistakes and use your learning to improve and educate yourself continuously.
+
+How to Answer
+
+To structure your response in an organized manner, familiarize yourself with the STAR (situation, task, action, result) method.
+
+In light of Atlassian’s open and collaborative culture, be honest and reflective. Choose a real professional error, describe what happened, what you learned, and how this experience shaped your growth. Emphasize how you took responsibility and how this experience changed your approach to challenges and teamwork.
+
+Example
+
+“In my previous role, I was tasked with optimizing a complex ETL process that took too long to complete. I proposed a series of performance improvements based on my analysis. However, when I implemented them, the process crashed, causing a significant data outage. It was a critical failure, and I worked tirelessly with the team to resolve the issue.
+
+This experience taught me the importance of thorough testing and monitoring during any system optimization. I also learned the value of communication with the team and stakeholders, keeping them informed of progress and setbacks.”
+
+2. Why do you want to join Atlassian?
+Interviewers will want to know why you chose the software engineer role at Atlassian. They want to establish whether you’re passionate about the company’s culture and values or if your interest is more opportunistic.
+
+How to Answer
+
+Demonstrate knowledge of Atlassian’s work and culture, and share the distinct opportunities that attract you to the company. Be honest and specific about how Atlassian’s offerings align with your career goals.
+
+Example
+
+“Working at Atlassian would allow me to be on a team that values innovation and learning. I’m intrigued by Atlassian’s innovative approach to solving collaboration challenges and the opportunity to work with diverse teams.”
+
+3. Can you tell me about a time when you had to take the lead in a challenging project or situation?
+Of course, leadership qualities are highly valued since they give employers an idea of whether you can take initiative, especially in a high-stakes situation.
+
+How to Answer
+
+Describe the context, the challenge, your action, and the outcome following the STAR framework. Highlight how you motivated the team and any critical decisions you made.
+
+Example
+
+“In a previous project, we needed to integrate diverse data sources into our analytics platform under a strict deadline. The data was complex, coming from various internal tools and third-party services, and early attempts at integration led to significant performance issues. Recognizing the critical nature of this project, I stepped up to lead the resolution effort.
+
+I initiated a series of strategic planning sessions with my team and stakeholders to define the data requirements clearly and prioritize the integration tasks based on business impact. To address the technical challenges, I advocated for a review of our existing data processing pipelines and led the effort to optimize our ETL processes. I also worked closely with our software development teams to ensure our data models were aligned with the needs of our internal analytics tools.
+
+Thanks to our concerted efforts, we met our integration deadline and laid the groundwork for a more scalable and reliable data infrastructure.”
+
+4. What are your three biggest strengths and weaknesses?
+This question is common in interviews at companies, including Atlassian, because it helps the interviewer gauge your self-awareness and honesty.
+
+How to Answer
+
+Select strengths that are relevant to the role and weaknesses that are genuine but not crippling to your performance. Also, discuss how you’re working to overcome your weaknesses.
+
+Example
+
+Strengths: “One of my primary strengths is my communication, especially in translating complex data insights into understandable terms for non-technical stakeholders. Another strength is my adaptability; working in fast-paced environments, I’ve learned to quickly adjust to new tools and technologies. Lastly, I’m highly collaborative. I believe in the power of teamwork and have consistently been able to bridge gaps between different departments.”
+
+Weaknesses: “I’ve identified my hesitation with public speaking. To improve, I’ve started attending workshops and actively seek opportunities to present in meetings.”
+
+5. Summarize your previous work experience.
+This will help your interviewer understand which team or role you’d be well suited for.
+
+How to Answer
+
+Highlight your contributions, the technologies you’ve worked with, and any achievements or learnings that would be beneficial in the context of Atlassian’s work environment. It’s best to keep your response concise and relevant to the position.
+
+Example
+
+“In my previous role as a data engineer at a SaaS company, I developed data pipelines to support real-time analytics for customer engagement insights. I have worked extensively with Apache Spark and Databricks to process large datasets, often improving data processing times by around 30%. My work involved close collaboration with the analytics team to ensure data accuracy and accessibility.
+
+Before that, I was involved in a project to migrate an on-premises data warehouse to a cloud-based solution. This experience taught me the intricacies of cloud storage and computing, particularly with AWS services. It also honed my skills in designing scalable, cost-effective data storage solutions.
+
+Throughout my career, I’ve emphasized continuous learning and collaboration, leading several cross-departmental workshops on data literacy. These experiences equipped me with a strong foundation in data engineering, a deep understanding of cloud technologies, and a passion for leveraging data to solve business challenges.”
+
+6. Let’s say we have a table with “ID” and “name” fields. The table holds over 100 million rows, and we want to sample a random row in the table without throttling the database. Write a query to randomly sample a row from this table.
+At Atlassian, data engineers need to be able to efficiently query and sample from large datasets.
+
+How to Answer 
+
+Briefly mention how full table scans can harm database performance, especially when dealing with millions of rows. Highlight one or two approaches like OFFSET with random numbers and reservoir sampling (Knuth’s algorithm). Mention their core concepts and suitability for the given scenario. Finally, choose the method you think is most optimal for Atlassian’s context.
+
+Example
+
+“Given its alignment with efficient database querying and its utilization of standard SQL functions, I’d prioritize the OFFSET method. However, if memory constraints are tighter, reservoir sampling could be a valuable alternative.”
+
+7. Describe a scalable and fault-tolerant architecture for ingesting, processing, and storing real-time streaming data from diverse sources.
+Atlassian requires robust, scalable, and fault-tolerant systems to manage its extensive datasets generated from various sources, such as Jira, Bitbucket, and Confluence.
+
+How to Answer 
+
+Outline a high-level architecture that includes data ingestion, processing, and storage components. Mention technologies that are known for reliability and scalability in handling streaming data.
+
+Example
+
+“I would use Apache Kafka for efficient data ingestion due to its high throughput and durability. Data processing can be managed with Apache Spark Streaming, which supports real-time processing and has strong fault-tolerance mechanisms like checkpointing. For storage, Amazon S3 or Apache Cassandra offers scalability and high availability. This setup ensures seamless handling of diverse data streams.”
+
+8. We have a table representing a company payroll schema. Due to an ETL error, the employee’s table did an insert instead of updating the salaries when making compensation adjustments. The head of HR still needs the salaries. Write a query to get the current salary for each employee.
+Troubleshooting and fixing such data issues will be part of your day-to-day as a data engineer at Atlassian.
+
+How to Answer
+
+Mention using SQL constructs like subqueries, window functions, or GROUP BY clauses. Your explanation should demonstrate your ability to write efficient SQL queries.
+
+Example
+
+“To get the current salary for each employee from the payroll table, I would use ROW_NUMBER() over a partition of the employee ID, ordered by the salary entry date in descending order. This ordering ensures that the most recent entry has a row number of 1. I would then wrap this query in a subquery or a Common Table Expression (CTE) and filter the results to include only rows where the row number is 1. This method retrieves only the latest salary entry for each employee, correcting the ETL error that caused multiple inserts.”
+
+9. Let’s say that you need to analyze a large JSON file containing log data from a web application. Describe the steps and the Python libraries you would use to read, process, and aggregate the data. Also, explain how you would handle any data anomalies.
+The question tests skills in parsing, processing, and analysis using Python, a key language used by data engineers.
+
+How to Answer
+
+It’s always best to understand the business use case first to determine the scope of the problem. Then, lay out your solution while clearly stating any assumptions you’ve made.
+
+Example
+
+“I would use the Python json library to parse the file. For large files, I might consider ijson or pandas with read_json, which can handle JSON data in a more memory-efficient manner. I would then use pandas for data processing and aggregation, as well as to filter, clean, or fill in any missing values. For example, missing values could be filled with averages or median values, or I could use more sophisticated imputation techniques depending on the business use case. Additionally, I would implement checks for outliers using functions from Scipy or NumPy .”
+
+10. Imagine you’re designing a product for Slack called “Slack for School.” What are the critical entities, and how would they interact? Imagine we want to provide insights to teachers about students’ class participation. How should we design an ETL process to extract data on student interaction with the app?
+You need to be able to design data-driven solutions by understanding user requirements and conceptualizing data structures.
+
+How to Answer
+
+Outline your understanding and scope of a “Slack for School” environment and the role of data in enhancing its functionality. Ask clarifying questions to identify critical entities, and make sure you state your assumptions clearly.
+
+Example Answer:
+
+“In ‘Slack for School,’ the critical entities would include students, teachers, classes, messages, and participation metrics. Students and teachers interact through messages within classes. To provide insights into students’ participation, we would need an ETL process that extracts data on message frequency, response times, and interaction types (like questions, answers, or comments). This data would be extracted from Slack’s API, transformed to categorize and quantify participation levels, and loaded into a data warehouse where teachers can access summarized reports. This process ensures that teachers receive actionable insights about student engagement.”
+
+11. How do Delta tables handle schema evolution and data consistency?
+Understanding the practicalities of Delta Lakes is a good idea, as you will be handling vast amounts of complex data.
+
+How to Answer
+
+Highlight Delta Lake’s mechanisms for handling these aspects, focusing on how these features support agile development.
+
+Example Answer:
+
+“Delta tables support schema evolution by allowing for the addition of new columns or changing data types without disrupting existing queries or data integrity. This is particularly useful if one wishes to evolve data models as new features are developed. Data consistency is ensured through ACID transactions, which means that all operations on Delta tables are atomic, consistent, isolated, and durable.”
+
+12. Write an SQL query to create a histogram of the number of user comments per month.
+The question tests your ability to create actionable insights from data, a key responsibility in engineering roles.
+
+How to Answer
+
+Focus on the use of date functions and the aggregation method you would use. Relate your answer to a scenario relevant to Atlassian’s products where analyzing user engagement is important, such as in understanding platform usage patterns.
+
+Example
+
+“In the query, I would filter the records based on the comment_date to include only those from the relevant month. I would then group the data by user_id and count the number of comments for each user.”
+
+13. For a SaaS product generating vast amounts of event data, describe how you would design a scalable data warehousing solution.
+This assesses your understanding of warehousing principles and the integration of diverse data sources into a cohesive, queryable system.
+
+How to Answer
+
+Mention incorporating cloud-based solutions, data partitioning, and indexing to improve query performance.
+
+Example
+
+“I would start with a cloud-based data warehouse, like Amazon Redshift or Google BigQuery, that offers scalability and managed services. Data would be ingested using a reliable data pipeline framework such as Apache Kafka, ensuring that data from various sources is consolidated efficiently. Lastly, the warehouse would be organized into subject-oriented schemas to facilitate analytics.”
+
+14. Given two strings A and B, write a function to return whether A can be shifted a number of places to get B.
+This question tests your expertise for tasks where string representations are used to identify data, ensuring that any shifts in data representation are accurately detected.
+
+How to Answer Explain your logic clearly, and remember to mention handling edge cases like empty strings or strings of different lengths.
+
+Example
+
+“I would first check if A and B are of equal length, as that is the only scenario where this shift is feasible. Then, I would concatenate A with itself, forming a new string A+A. The logic is that if B is a shifted version of A, then B must be a substring of A+A. For example, if A is ‘abcd’ and B is ‘cdab,’ concatenating A with itself gives ‘abcdabcd,’ and you can see that B is a substring of this.”
+
+15. Write a Python script that fetches data from an API and updates a database. Include comprehensive error handling to manage rate limiting, timeouts, and intermittent API unavailability.
+You’ll need to write robust code that can handle errors well, which is crucial for maintaining system integrity.
+
+How to Answer You should mention and elaborate on the Python library you choose. It should support the following: making HTTP requests, error handling using try-except blocks, and strategies for dealing with common API issues like rate limits and timeouts.
+
+Example
+
+“I’d use the requests library to handle API calls, wrapping each call in a try-except block to catch exceptions related to connectivity issues, timeouts, and rate limits. For handling rate limits, the script would detect a 429 status code and use a back-off strategy, retrying the request after a delay. To address intermittent API unavailability, I’d implement a retry mechanism with exponential backoff and jitter, ensuring the script attempts to fetch the data several times before failing.”
+
+16. Given a table of bank transactions with columns: id, transaction_value, and created_at representing the date and time for each transaction, write a query to get the last transaction for each day.
+In a real-world scenario, you might need to extract similar insights from transactional data for daily financial summaries or end-of-day reports.
+
+How to Answer
+
+Focus on using a window function to partition the data. Explain the function and how the ORDER BY clause helps determine the latest transaction.
+
+Example
+
+“To write this query, I would use a window function like ROW_NUMBER(), partitioning the data by the date portion of the created_at column and ordering by created_at in descending order within each partition. This setup will assign a row number of 1 to the last transaction of each day. Then, I would wrap this query in a subquery or use a CTE to filter out the rows where the row number is 1. The final output would be ordered by the created_at datetime to display the transactions chronologically. This approach ensures we get the last transaction for each day without missing any days.”
+
+17. Given a dataset of user interactions on a website (with columns: user_id, page_id, interaction_time), write an SQL query to find the last page visited by each user before they visited the homepage (page_id = 1) for the first time. Assume the homepage was not their first visit.
+This kind of query is relevant for companies like Atlassian, which rely on analyzing user interactions across their platforms to improve user experience and product design.
+
+How to Answer
+
+Outline your approach to solving this query, emphasizing the use of window functions to partition data. Also, the dataset should be filtered to consider only the interactions before each user’s first visit to the homepage.
+
+Example
+
+“The strategy would involve identifying the first time each user visited the homepage by partitioning the data by user_id and ordering it by interaction_time using window functions. I’d then filter out all interactions after this first visit to the homepage. From the remaining data, I would use another window function to rank the interactions for each user in reverse chronological order.”
+
+18. Let’s say you’re setting up the analytics tracking for a web app. How would you create a schema to represent client click data on the web?
+Understanding client click data is important for enhancing user experience. The interviewer evaluates your ability to determine what data is important to capture, how to organize it for efficient analysis, and your approach to data modeling.
+
+How to Answer
+
+Follow this approach to answer such questions: 1) Ask clarifying questions; 2) Assess requirements; 3) Present your solution; 4) Create a validation plan to assess and iterate the solution for continuous improvement.
+
+Example
+
+“In creating such a schema, I would capture essential attributes such as the user ID (to uniquely identify users), session ID (to track individual user sessions), timestamp (to record the exact time of the click), page URL (to identify which page was clicked), and click details (like the element clicked and the type of click). Capturing metadata such as the user’s device type, browser, and geographic location can provide valuable insights as well.
+
+The schema should be designed for efficient querying, so I would normalize the data. For high query performance and scalability, especially with large data, a NoSQL database like MongoDB might be more suitable than a traditional SQL database. This allows for more flexibility in handling semi-structured data and can easily scale with the growth of the web app’s user base.
+
+Regarding data storage, I would consider using a time-series database or a columnar storage format if the primary analysis involves time-based aggregations or rapid querying of specific columns.”
+
+19. You’re given a Spark DataFrame that experiences significant skew when performing a join operation due to a high concentration of values in a particular key. How would you mitigate this issue to optimize the join operation?
+This question checks your understanding of data skew, a common performance issue in distributed computing environments.
+
+How to Answer
+
+Discuss data skew and its impact on performance, particularly during joint operations. Then, outline strategies to address skew, such as salting (adding a random prefix to key values), and broadcast joins for smaller datasets, or repartitioning the data.
+
+Example
+
+“One effective strategy is to introduce salting to the skewed keys. By appending a random value to the keys on both DataFrames before joining, we can spread the concentrated data across multiple partitions, reducing the load on any single node. For smaller datasets, considering a broadcast join might be beneficial, as it broadcasts the smaller DataFrame to all worker nodes, avoiding shuffling large amounts of skewed data.”
+
+20. Given an employees and departments table, select the top 3 departments with at least 10 employees and rank them according to the percentage of their employees making over $100,000.
+Troubleshooting and fixing such data issues will be part of your day-to-day as a data engineer at Atlassian.
+
+How to Answer
+
+Mention using SQL constructs like subqueries, window functions, or GROUP BY clauses. Your explanation should demonstrate your ability to write efficient SQL queries.
+
+Example
+
+“To get the current salary for each employee from the payroll table, I would use ROW_NUMBER() over a partition of the employee ID, ordered by the salary entry date in descending order. This ordering ensures that the most recent entry has a row number of 1. I would then wrap this query in a subquery or a Common Table Expression (CTE) and filter the results to include only rows where the row number is 1. This method retrieves only the latest salary entry for each employee, correcting the ETL error that caused multiple inserts.”
+
+21. Given an integer array arr, write a function decreasing_values to return an array of integers so that the subsequent integers in the array get filtered out if they are less than an integer in a later index of the array.
+This question might be asked in an Atlassian Data Engineer interview to assess your problem-solving skills, particularly your ability to manipulate arrays and implement efficient algorithms. It tests your understanding of array traversal and filtering techniques, which are important for optimizing data pipelines and processing large datasets.
+
+How to Answer
+
+One trick we can use is to record the attached indices for each value and then sort the values by order. Then, we can compare the new indices against the old index. This allows us to then throw out the values that would be decreasing and outliers.
+
+Example
+
+“This problem involves filtering an array to maintain a decreasing sequence. The challenge is removing any value smaller than a subsequent one. To do this, I would record each value’s indices, sort them in descending order, and then compare their original indices. This allows me to keep only the values that maintain the decreasing order, effectively removing those that don’t fit.”
+
+22. Given a users table, write a query to return only its duplicate rows.
+This question is likely asked in an Atlassian Data Engineer interview to assess your ability to identify and handle data quality issues, which is crucial for ensuring the accuracy and reliability of the data pipelines and systems you would be working with.
+
+How to Answer
+
+Explain that the query uses the ROW_NUMBER() window function to identify duplicate rows by assigning a rank to each row within groups of identical id values. The query then filters for rows with a rank greater than 1, meaning they are duplicates.
+
+Example
+
+“In this scenario, I would use a window function to identify duplicate rows by ranking them within groups of identical id values. By focusing on rows that have a ranking greater than one, I could easily pinpoint the duplicates. This approach should effectively help manage data quality by allowing us to isolate and address duplicate records in the table.”
+
+How to Prepare for an Atlassian Data Engineer Interview
+How to Prepare for a Data Engineer Interview at Atlassian
+
+Understand the Role and Responsibilities
+Research the specific role you’re applying to. Understand the key responsibilities and skills required. Visit Atlassian’s careers page for tips on preparing for the engineer interview.
+
+Brush Up on Technical Skills
+Make sure you have a strong foundation in the most-used programming languages like Python as well as SQL and data structures.
+
+Check out the resources we’ve compiled for data engineers: a case study guide, a compendium of data engineer interview questions, data engineering projects to add to your resume, and a list of great books to help you on your engineering journey. If you need further guidance, you can consider our tailored data engineering learning path as well.
+
+Familiarize Yourself with Atlassian’s Business Model
+Gain a deep understanding of Atlassian’s products, market challenges, and technology stack. Consider how your role might impact the business and think of ways you could contribute to solving real-world problems Atlassian faces.
+
+Practice Problem-Solving and Behavioral Questions
+Prepare for behavioral questions using the STAR method. Reflect on your past experiences and practice articulating them in a concise, impactful manner.
+
+Visit our Interview Questions section to familiarize yourself with behavioral questions. It offers a wide range of practice questions to help structure your responses effectively using the STAR method.
+
+To test your current preparedness for the interview process and improve your communication skills, try a mock interview.
+
+Keep Up with the Industry
+The data engineering landscape is constantly evolving, so keep yourself updated on the latest technologies, news, and best practices.
+
+Network with Employees
+Connect with people who work at Atlassian through LinkedIn or other online platforms. They can provide valuable insights into the company culture and the interview process.
+
+Consider checking our complete Data Engineer Prep Guide to ensure you don’t miss anything important while preparing for your interview at Atlassian.
+
+Frequently Asked Questions
+What is the average salary for a data engineer role at Atlassian?
+$125,257
+Average Base Salary
+
+$82,517
+Average Total Compensation
+
+The average base salary for a Data Engineer at Atlassian is $125,257 based on 29 data points. Adjusting the average for more recent salary data points, the average recency weighted base salary is $127,243.
+The estimated average total compensation is $82,517 based on 5 data points. The average recency weighted total compensation is $78,806.
+View the full Data Engineer at Atlassian salary guide
+
+The average base salary for a data engineer at Atlassian is $125,257, making the remuneration considerably higher than that of the average data engineering role in the US.
+
+For more insights into the salary range of a data engineer at various companies, segmented by city, seniority, and company, check out our comprehensive Data Engineer Salary Guide.
+
+Where can I read more discussion posts on the Atlassian data engineer role here on Interview Query?
+Here is our discussion board, where our members talk about their Atlassian interview experience. You can also use the search bar to look up data engineer interview experiences with other firms to gain insight into interview patterns.
+
+Are there job postings for Atlassian data engineer roles on Interview Query?
+We have jobs listed for Atlassian, which you can apply for directly through our job portal. You can also look at similar roles that are relevant to your career goals and skill set.
+
+Conclusion
+If you’re considering opportunities at other tech companies, check out our company interview guides. We cover a range of companies, including Google, IBM, Apple, and more.
+
+For other data-related roles at Atlassian, consider exploring our software engineer, data scientist, and other guides in our main Atlassian interview guide.
+
+If you’re looking for more information about interview questions for data engineers, look through our main data engineering interview guide, case studies, and Python and SQL interview questions for data engineer guides.
+
+The key to your success is understanding Atlassian’s culture of innovation and collaboration and thoroughly preparing with technical and behavioral question
